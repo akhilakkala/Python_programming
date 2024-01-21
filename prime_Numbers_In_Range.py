@@ -3,7 +3,7 @@ y = int(input("Enter the second number in the range : "))
 
 prime_nums = []
 
-# THE OPTIMIZING CODE
+# THE OPTIMIZE CODE
 for num in range(x, y + 1):
     flag = 0
     
